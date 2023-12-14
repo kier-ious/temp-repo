@@ -1,0 +1,31 @@
+.socks {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  padding: 6px;
+  border-radius: 5px;
+  background-color: red;
+  /* height: 400px; */
+  width: 300px;
+}
+.sock-pic {
+  background-color: white;
+  padding: 20px 20px 30px 30px;
+  border-radius: 5px;
+  height: 300px;
+}
+.sock-description {
+  font-size: large;
+  /* justify-content: flex-start; */
+}
+.cost {
+  display: flex;
+  flex-direction: row;
+}
+.color-options {
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  justify-content: flex-start;
+  margin-right: auto;
+}
